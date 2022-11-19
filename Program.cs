@@ -1,6 +1,7 @@
 ﻿using System;
 using static System.Console;
 
+//Очистка терминала 
 Clear();
 
 string[] array = AskArray();
