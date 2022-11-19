@@ -33,4 +33,4 @@
 
 [“Russia”, “Denmark”, “Kazan”] → []
 
-[Блок-схема]() | [Код]()
+[Блок-схема]() | [Код](https://github.com/NordOST85/Choice_Of_Specialization_IT_specialist/blob/main/Program.cs)
