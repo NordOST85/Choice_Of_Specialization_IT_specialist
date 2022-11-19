@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Choice_Of_Specialization_IT_specialist/1.0.0": {
+        "runtime": {
+          "Choice_Of_Specialization_IT_specialist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Choice_Of_Specialization_IT_specialist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
